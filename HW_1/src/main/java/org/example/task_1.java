@@ -45,6 +45,13 @@ public class task_1 {
 
     }
 
+// public static int sumOfNumbersFrom1ToN(int toN) {
+//
+//        if (toN <= 0) return 0;
+//        return toN + sumOfNumbersFrom1ToN(--toN);
+//    }
+
+
 
     // #2. Вывести все простые числа от 1 до 1000.
     public static void PrimeNumbers() {
@@ -146,4 +153,7 @@ public class task_1 {
 
     }
 }
+
+
+
 
